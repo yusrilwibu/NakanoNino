@@ -36,7 +36,7 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '081275274328'
 global.povo = '-'
 global.pgopay = '085731947500'
 global.ppulsa = '085731947500'
@@ -52,7 +52,7 @@ global.nameown = 'Okta'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6281275274328', 'Okta', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,7 +105,7 @@ global.bear = 'VBkM7rbU'
 /*============== WATERMARK ==============*/
 global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
 global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm3 = 'Jangan Lupa Subscribe -'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
